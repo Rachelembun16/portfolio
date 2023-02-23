@@ -1,0 +1,35 @@
+.left-grid {
+  background-color: #bdbdbd;
+  min-height: 750px;
+}
+
+/* body {
+  background-color: #e6d4d0;
+} */
+
+.profils {
+  background-color: #f8e8e4;
+  margin-top: 120px;
+  border-style: hidden;
+  /* margin-left: 200px;
+  
+  /* width: 25rem; */
+}
+
+.hello {
+  font-size: 80px;
+  padding-left: auto;
+  margin-top: 140px;
+}
+
+.paragraf {
+  font-size: 15px;
+}
+
+/* .resume {
+  border-style: hidden;
+} */
+
+.pad {
+  padding-top: 6rem;
+}
